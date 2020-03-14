@@ -4,4 +4,4 @@
 Для упрощения сравнения применяется [Стеммер Портера](https://ru.wikipedia.org/wiki/Стеммер_Портера).
 Для самого сравнения используется [Косинусное сходство](https://ru.wikipedia.org/wiki/Векторная_модель).
 
-Протестировать бота можно тут @maxon_verygood_first_bot
+Протестировать бота можно тут [@maxon_verygood_first_bot](https://teleg.run/maxon_verygood_first_bot)
