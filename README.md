@@ -9,3 +9,15 @@
 
 
 P.S. сравнение текстов происходит по словам, следовательно два текста "Hi" и "Hello" будут совершенно различны.
+
+Регистрация
+---
+![Register](https://github.com/maxim092001/TextComparsionBot/blob/master/src/main/resources/start.png)
+
+Первый текст
+---
+![FirstText](https://github.com/maxim092001/TextComparsionBot/blob/master/src/main/resources/firsttext.png)
+
+Второй текст и мгновенный результат
+---
+![SecondText](https://github.com/maxim092001/TextComparsionBot/blob/master/src/main/resources/result.png)
