@@ -8,7 +8,7 @@
 * You can test the bot here [@maxon_verygood_first_bot](https://teleg.run/maxon_verygood_first_bot).
 
 
-P.S. The comparison of texts is carried out by words, therefore the two texts "Hi" and "Hello" will be completely different.
+P.S. The comparison of texts is carried out by words, therefore the two texts "Hi" and "Hello" will be completely different. The best work results are shown by comparing texts in Russian.
 
 Registration
 ---
